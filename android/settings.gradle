@@ -1,0 +1,3 @@
+rootProject.name = 'SYUIExplorer'
+
+include ':app'
